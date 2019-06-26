@@ -1,0 +1,66 @@
+#top {
+    #my_top {
+        width: 100%;
+        height: 2rem;
+        margin: 0 auto;
+        #userImg {
+            width: 1.6rem;
+            height: 1.6rem;
+            display: block;
+            margin: 0.2rem auto;
+            border-radius: 50%;
+            img {
+                margin: 0 auto;
+                width: 1.6rem;
+                height: 1.4rem;
+            }
+        }
+        #username {
+            text-align: center;
+        }
+    }
+    #info {
+        width: 100%;
+        height: 0.5rem;
+        margin: 0.1rem;
+        li {
+            float: left;
+            width: 32%;
+            height: 0.4rem;
+            line-height: 0.4rem;
+            text-align: center;
+            color: #001;
+            border-right: 1px solid #f40;
+            background-color: wheat;
+        }
+        li:last-child {
+            border-right: 0;
+        }
+    }
+    #xzTitle {
+        width: 100%;
+        font-size: 0.3rem;
+    }
+    #xz {
+        width: 100%;
+        height: 0.6rem;
+        li {
+            float: left;
+            width: 20%;
+            // text-align: center;
+            img {
+                margin-left: 0.35rem;
+                width: 0.6rem;
+                height: 0.5rem;
+            }
+        }
+    }
+}
+
+#m-foot {
+    width: 100%;
+    height: 2.5rem;
+    position: absolute;
+    bottom: 0.9rem;
+    left: 0;
+}

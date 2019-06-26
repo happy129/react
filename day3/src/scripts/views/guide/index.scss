@@ -1,0 +1,23 @@
+#guide,
+.g-img {
+    width: 100%;
+    height: 100%;
+}
+
+#guide {
+    width: 100%;
+    height: 100%;
+    #slipe {
+        position: absolute;
+        top: 0.6rem;
+        right: 0.6rem;
+        width: 0.8rem;
+        height: 0.4rem;
+        line-height: 0.4rem;
+        font-size: 18px;
+        background: orange;
+        color: white;
+        text-align: center;
+        border-radius: 15px;
+    }
+}

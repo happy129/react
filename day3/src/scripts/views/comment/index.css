@@ -1,0 +1,11 @@
+#commentBox {
+  width: 100%;
+  margin-bottom: 1.2rem;
+}
+
+#commentBox .am-wingblank #content {
+  list-style: none;
+  padding: 0.15rem;
+  background-color: #cfc;
+  border-radius: 0.15rem;
+}
