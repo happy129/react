@@ -1,0 +1,33 @@
+#myComment {
+    p {
+        margin: 0.15rem 0;
+    }
+    #commentText {
+        span {
+            color: #f40;
+        }
+    }
+    #operation {
+        width: 100%;
+        #update {
+            width: 1.2rem;
+            height: 0.65rem;
+            line-height: 0.65rem;
+            border-radius: 0.1rem;
+            font-size: 0.18rem;
+            display: inline-block;
+            margin-right: 0.8rem;
+            background-color: #108ee9;
+        }
+        #del {
+            width: 1.2rem;
+            height: 0.65rem;
+            color: wheat;
+            line-height: 0.65rem;
+            border-radius: 0.1rem;
+            font-size: 0.18rem;
+            display: inline-block;
+            background-color: rgb(233, 79, 79);
+        }
+    }
+}
