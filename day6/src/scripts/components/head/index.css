@@ -1,0 +1,10 @@
+.am-navbar {
+  background-color: #ccf;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 0.9rem;
+  z-index: 99;
+  animation: jello 2s;
+}

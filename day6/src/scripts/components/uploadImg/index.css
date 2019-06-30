@@ -1,0 +1,15 @@
+.hiddenInput {
+  display: none;
+}
+
+#photo {
+  width: 1.6rem;
+  height: 1.6rem;
+  margin: 0.2rem auto;
+}
+
+#photo .ohuo {
+  width: 1.6rem;
+  height: 1.6rem;
+  border-radius: 50%;
+}

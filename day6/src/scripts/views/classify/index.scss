@@ -1,0 +1,13 @@
+.am-tabs,
+.am-tabs-horizontal,
+.am-tabs-top {
+    position: fixed;
+    left: 0;
+    top: 1.0rem;
+    width: 100%;
+    // height: 0.9rem;
+}
+
+.am-pull-to-refresh .am-pull-to-refresh-down {
+    padding-bottom: 1rem;
+}
